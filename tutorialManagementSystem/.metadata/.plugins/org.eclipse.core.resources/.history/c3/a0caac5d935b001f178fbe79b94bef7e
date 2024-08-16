@@ -1,0 +1,13 @@
+package packages;
+import java.util.Scanner;
+
+public class Durgesh {
+	public static void main() {
+		String abc;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter The String");
+		abc= sc.next();
+		System.out.println(abc);
+	}
+	
+}

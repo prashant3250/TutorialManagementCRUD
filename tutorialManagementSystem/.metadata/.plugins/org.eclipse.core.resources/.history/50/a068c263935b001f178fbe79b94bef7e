@@ -1,0 +1,14 @@
+package packages;
+
+public class steptocreatedatabase {
+
+	public static void main(String[] args) {
+		String abc;
+		String bb="abc";
+		
+		bb.
+		
+		
+	}
+
+}
